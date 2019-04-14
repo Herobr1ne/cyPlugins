@@ -1,2 +1,2 @@
 # cyPlugins
-c# based teamspeak 3 plugins
+cyplugins are c# based teamspeak 3 plugins
