@@ -14,3 +14,9 @@
 
 cyplugins are c# based teamspeak 3 plugins  
 > You can join our discord server if you have questions about the plugin
+
+**current plugins**  
+
+Plugin | Description
+------------ | ------------
+<a href="https://github.com/cydolo/cyPlugins/tree/master/cyWho" target="_blank">cyWho</a> | plugin to indicate who wants to write to you
