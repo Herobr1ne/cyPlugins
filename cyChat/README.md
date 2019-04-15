@@ -7,8 +7,9 @@ Description: plugin to write anonymously with user who also use the plugin
 **with cyChat you can write with users without anyone seeing it.   
 the encryption here is very simple but will change soon. no rights are needed! the user only needs the plugin**
 
-**Command**  
-`/cyChat send <message>`
+**Commands**  
+`/cyChat send <message>` *send message to chat
+`/cyChat anonym <on> or <off>` *other users will not see your name anymore
 
 more commands will be added soon
 
