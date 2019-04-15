@@ -1,4 +1,4 @@
-## cyWho
+## cyChat
 <a href="https://github.com/cydolo/cyPlugins/releases/tag/2.0" target="_blank">Download</a>
 
 Plugin: cyChat  
