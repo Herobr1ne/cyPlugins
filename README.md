@@ -19,4 +19,5 @@ cyplugins are c# based teamspeak 3 plugins
 
 Plugin | Description
 ------------ | ------------
+<a href="https://github.com/cydolo/cyPlugins/tree/master/cyChat" target="_blank">cyChat</a> | plugin to write anonymously with others
 <a href="https://github.com/cydolo/cyPlugins/tree/master/cyWho" target="_blank">cyWho</a> | plugin to indicate who wants to write to you
