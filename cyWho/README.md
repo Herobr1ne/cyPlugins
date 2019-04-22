@@ -7,4 +7,4 @@ Description: plugin to indicate who wants to write to you
 required: 
 * start teamspeak with `-console` parameter  
 
-![image](https://files.catbox.moe/97swxg.png)
+![image](https://files.catbox.moe/lpc9u2.png)
