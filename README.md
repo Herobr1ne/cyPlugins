@@ -12,8 +12,11 @@
   <br>
 </p>
 
+![#DA70D6](https://placehold.it/15/48D1CC/000000?text=+) `You want to have a specific plugin, then connect to our discord server` <a href="https://discord.gg/dC3jWNd" target="_blank">Join me</a>    
+
 cyplugins are c# based teamspeak 3 plugins  
 > You can join our discord server if you have questions about the plugin
+  
 
 **current plugins**  
 
