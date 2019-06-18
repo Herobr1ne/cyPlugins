@@ -1,5 +1,5 @@
 ## cyWho
-<a href="https://github.com/cydolo/cyPlugins/releases/tag/1.0" target="_blank">Download</a>
+<a href="https://github.com/cydolo/cyPlugins/releases/tag/2.1" target="_blank">Download</a>
 
 Plugin: cyWho  
 Description: plugin to indicate who wants to write to you  
