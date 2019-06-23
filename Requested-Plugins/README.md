@@ -20,4 +20,4 @@ These are plugins suggested by other users
 
 Plugin | Description | Requested by
 ------------ | ------------ | ------------
-<a href="https://github.com/cydolo/cyPlugins/releases/tag/3.0">cyAntiAfk</a> | plugin to prevent moving from afk bots | KannaExploit
+<a href="https://github.com/cydolo/cyPlugins/tree/master/Requested-Plugins/cyAntiAfk">cyAntiAfk</a> | plugin to prevent moving from afk bots | KannaExploit
