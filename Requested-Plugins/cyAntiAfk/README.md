@@ -1,4 +1,4 @@
-## cyChat
+## cyAntiAfk
 <a href="https://github.com/cydolo/cyPlugins/releases/tag/3.0" target="_blank">Download</a>
 
 Plugin: cyAntiAfk  
