@@ -21,3 +21,4 @@ These are plugins suggested by other users
 Plugin | Description | Requested by
 ------------ | ------------ | ------------
 <a href="https://github.com/cydolo/cyPlugins/tree/master/Requested-Plugins/cyAntiAfk">cyAntiAfk</a> | plugin to prevent moving from afk bots | KannaExploit
+<a href="https://github.com/cydolo/cyPlugins/tree/master/Requested-Plugins/cyAntiKick">cyAntiKick</a> | plugin to prevent kick from a channel with integrated anti move | KannaExploit
