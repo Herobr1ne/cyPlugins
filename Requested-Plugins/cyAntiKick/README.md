@@ -1,5 +1,5 @@
 ## cyAntiKick
-<a href="https://github.com/cydolo/cyPlugins/releases/tag/4.0" target="_blank">Download</a>
+<a href="https://github.com/cydolo/cyPlugins/releases/tag/4.1" target="_blank">Download</a>
 
 Plugin: cyAntiKick  
 Requested by: KannaExploit  
