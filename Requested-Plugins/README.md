@@ -18,7 +18,7 @@ These are plugins suggested by other users
 
 **Requested Plugins**  
 
-Plugin | Description | Requested by
------------- | ------------ | ------------
-<a href="https://github.com/cydolo/cyPlugins/tree/master/Requested-Plugins/cyAntiAfk">cyAntiAfk</a> | plugin to prevent moving from afk bots | KannaExploit
-<a href="https://github.com/cydolo/cyPlugins/tree/master/Requested-Plugins/cyAntiKick">cyAntiKick</a> | plugin to prevent kick from a channel with integrated anti move | KannaExploit
+Plugin | Description | Requested by | Downloads
+------------ | ------------ | ------------ | ------------ |
+<a href="https://github.com/cydolo/cyPlugins/tree/master/Requested-Plugins/cyAntiAfk">cyAntiAfk</a> | plugin to prevent moving from afk bots | KannaExploit | ![GitHub Releases](https://img.shields.io/github/downloads/cydolo/cyPlugins/3.1/total.svg?color=darkcyan&label=Downloads&style=popout-square)
+<a href="https://github.com/cydolo/cyPlugins/tree/master/Requested-Plugins/cyAntiKick">cyAntiKick</a> | plugin to prevent kick from a channel with integrated anti move | KannaExploit | ![GitHub Releases](https://img.shields.io/github/downloads/cydolo/cyPlugins/4.1/total.svg?color=darkcyan&label=Downloads&style=popout-square)
