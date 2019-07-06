@@ -11,6 +11,7 @@
 </a>    
   <br>
 </p>
+
 ![#DA70D6](https://placehold.it/15/48D1CC/000000?text=+) `You can request a plugin on our discord server` <a href="https://discord.gg/dC3jWNd" target="_blank">Join me</a>    
 
 These are plugins suggested by other users  
