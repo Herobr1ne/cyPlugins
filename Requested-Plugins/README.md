@@ -11,7 +11,6 @@
 </a>    
   <br>
 </p>
-
 ![#DA70D6](https://placehold.it/15/48D1CC/000000?text=+) `You can request a plugin on our discord server` <a href="https://discord.gg/dC3jWNd" target="_blank">Join me</a>    
 
 These are plugins suggested by other users  
@@ -22,3 +21,4 @@ Plugin | Description | Requested by | Downloads
 ------------ | ------------ | ------------ | ------------ |
 <a href="https://github.com/cydolo/cyPlugins/tree/master/Requested-Plugins/cyAntiAfk">cyAntiAfk</a> | plugin to prevent moving from afk bots | KannaExploit | ![GitHub Releases](https://img.shields.io/github/downloads/cydolo/cyPlugins/3.1/total.svg?color=darkcyan&label=Downloads&style=popout-square)
 <a href="https://github.com/cydolo/cyPlugins/tree/master/Requested-Plugins/cyAntiKick">cyAntiKick</a> | plugin to prevent kick from a channel with integrated anti move | KannaExploit | ![GitHub Releases](https://img.shields.io/github/downloads/cydolo/cyPlugins/4.1/total.svg?color=darkcyan&label=Downloads&style=popout-square)
+<a href="https://github.com/cydolo/cyPlugins/tree/master/Requested-Plugins/cyPokeMove">cyPokeMove</a> | plugin to move a client if you got poked | simgint | ![GitHub Releases](https://img.shields.io/github/downloads/cydolo/cyPlugins/5.0/total.svg?label=Downloads&style=popout-square)
