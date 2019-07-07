@@ -22,8 +22,8 @@ cyplugins are c# based teamspeak 3 plugins
 
 Plugin | Description | Downloads
 ------------ | ------------ | ------------ |
-<a href="https://github.com/cydolo/cyPlugins/tree/master/cyChat" target="_blank">cyChat</a> | plugin to write anonymously with others | ![GitHub Releases](https://img.shields.io/github/downloads/cydolo/cyPlugins/1.0/total.svg?color=darkcyan&label=Downloads&style=popout-square)
-<a href="https://github.com/cydolo/cyPlugins/tree/master/cyWho" target="_blank">cyWho</a> | plugin to indicate who wants to write to you | ![GitHub Releases](https://img.shields.io/github/downloads/cydolo/cyPlugins/2.1/total.svg?color=darkcyan&label=Downloads&style=popout-square)
+<a href="https://github.com/cydolo/cyPlugins/tree/master/cyChat" target="_blank">cyChat</a> | plugin to write anonymously with others | ![GitHub Releases](https://img.shields.io/github/downloads/cydolo/cyPlugins/cypl-chat-b1.3/total.svg?color=darkcyan&label=Downloads&style=popout-square)
+<a href="https://github.com/cydolo/cyPlugins/tree/master/cyWho" target="_blank">cyWho</a> | plugin to indicate who wants to write to you | ![GitHub Releases](https://img.shields.io/github/downloads/cydolo/cyPlugins/cypl-who-b2.1/total.svg?color=darkcyan&label=Downloads&style=popout-square)
 
 **requested plugins**  
 
