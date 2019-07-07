@@ -1,5 +1,5 @@
 ## cyChat
-<a href="https://github.com/cydolo/cyPlugins/releases/tag/2.0" target="_blank">Download</a>
+<a href="https://github.com/cydolo/cyPlugins/releases/tag/cypl-chat-b1.3" target="_blank">Download</a>
 
 Plugin: cyChat  
 Description: plugin to write anonymously with user who also use the plugin
