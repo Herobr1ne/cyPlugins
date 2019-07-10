@@ -7,4 +7,4 @@ Description: plugin to move a client if you got poked + UI
 
 **this plugin moves the client that poked you with a specific message you can change the poke message in the settings dialog**
 
-![Picutre](https://files.catbox.moe/40ekth.png)
+![Picutre](https://files.catbox.moe/j64gki.png)
