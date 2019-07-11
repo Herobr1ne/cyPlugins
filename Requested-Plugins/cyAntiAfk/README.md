@@ -6,3 +6,4 @@ Requested by: KannaExploit
 Description: plugin to prevent moving from afk bot
 
 **this plugin sends every minute a command to the server to prevent that afk bots moving the client**
+![cyPlugin](https://files.catbox.moe/ow2h9u.png)
