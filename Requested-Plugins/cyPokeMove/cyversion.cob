@@ -1,1 +1,1 @@
-cyplugin-build: cypl-cyapi-b1.2
+cyplugin-build: cypl-pokemove-b1.2
