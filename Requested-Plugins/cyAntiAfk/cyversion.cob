@@ -1,1 +1,1 @@
-cyplugin-build: cypl-antiafk-b2.1
+cyplugin-build: cypl-antiafk-b2.2
