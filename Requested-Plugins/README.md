@@ -20,7 +20,7 @@ These are plugins suggested by other users
 
 Plugin | Description | Requested by | Downloads | Last Update |
 ------------ | ------------ | ------------ | ------------ | ------------ |
-<a href="https://github.com/cydolo/cyPlugins/tree/master/Requested-Plugins/cyAntiAfk">cyAntiAfk</a> | plugin to prevent moving from afk bots | KannaExploit | ![GitHub Releases](https://img.shields.io/github/downloads/cydolo/cyPlugins/cypl-antiafk-b2.1/total.svg?color=darkcyan&label=Downloads&style=popout-square) | 19.07.2019
-<a href="https://github.com/cydolo/cyPlugins/tree/master/Requested-Plugins/cyAntiKick">cyAntiKick</a> | plugin to prevent kick from a channel | KannaExploit | ![GitHub Releases](https://img.shields.io/github/downloads/cydolo/cyPlugins/cypl-antikick-b1.3/total.svg?color=darkcyan&label=Downloads&style=popout-square) | 19.07.2019
-<a href="https://github.com/cydolo/cyPlugins/tree/master/Requested-Plugins/cyPokeMove">cyPokeMove</a> | plugin to move a client if you got poked | simgint | ![GitHub Releases](https://img.shields.io/github/downloads/cydolo/cyPlugins/cypl-pokemove-b1.2/total.svg?color=darkcyan&label=Downloads&style=popout-square) | 19.07.2019
+<a href="https://github.com/cydolo/cyPlugins/tree/master/Requested-Plugins/cyAntiAfk">cyAntiAfk</a> | plugin to prevent moving from afk bots | KannaExploit | ![GitHub Releases](https://img.shields.io/github/downloads/cydolo/cyPlugins/cypl-antiafk-b2.2/total.svg?color=darkcyan&label=Downloads&style=popout-square) | 19.07.2019
+<a href="https://github.com/cydolo/cyPlugins/tree/master/Requested-Plugins/cyAntiKick">cyAntiKick</a> | plugin to prevent kick from a channel | KannaExploit | ![GitHub Releases](https://img.shields.io/github/downloads/cydolo/cyPlugins/cypl-antikick-b1.4/total.svg?color=darkcyan&label=Downloads&style=popout-square) | 19.07.2019
+<a href="https://github.com/cydolo/cyPlugins/tree/master/Requested-Plugins/cyPokeMove">cyPokeMove</a> | plugin to move a client if you got poked | simgint | ![GitHub Releases](https://img.shields.io/github/downloads/cydolo/cyPlugins/cypl-pokemove-b1.3/total.svg?color=darkcyan&label=Downloads&style=popout-square) | 19.07.2019
 
