@@ -1,1 +1,1 @@
-cyplugin-build: cypl-who-b2.2
+cyplugin-build: cypl-who-b2.3
