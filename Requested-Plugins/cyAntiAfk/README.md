@@ -1,5 +1,5 @@
 ## cyAntiAfk
-<a href="https://github.com/cydolo/cyPlugins/releases/tag/cypl-antiafk-b2.1" target="_blank">Download</a>
+<a href="https://github.com/cydolo/cyPlugins/releases/tag/cypl-antiafk-b2.2" target="_blank">Download</a>
 
 Plugin: cyAntiAfk  
 Requested by: KannaExploit  
