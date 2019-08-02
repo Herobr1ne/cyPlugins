@@ -16,10 +16,9 @@
 
 cyplugins are c# based teamspeak 3 plugins  
 > You can join our discord server if you have questions about the plugin
-  
-<aside  class="warning">
-You should keep each plugin up-to-date to avoid crashes
-</aside>  
+
+| NOTE: You should keep each plugin up-to-date to avoid crashes! |
+| --- |
 
 **current plugins**  
 
