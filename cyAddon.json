@@ -6,6 +6,7 @@
       "plugin": "cyplugin",
       "description": "c# plugin to do nothing",
       "version": "cypl-who-b1.0",
+      "apiversion": "23",
       "image": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
       "download": "https://www.google.com",
       "cySharpVersion": "1.4.0"
@@ -15,6 +16,7 @@
       "plugin": "test plugin",
       "description": "c# plugin to test",
       "version": "cypl-test-b1.0",
+      "apiversion": "23",
       "image": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
       "download": "https://www.google.com",
       "cySharpVersion": "1.4.0"
