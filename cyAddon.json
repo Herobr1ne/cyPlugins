@@ -9,8 +9,7 @@
       "apiversion": "23",
       "image": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
       "download": "https://www.google.com",
-      "cySharpVersion": "1.4.0"
-        
+      "cySharpVersion": "1.4.0"       
     },
     {
       "plugin": "test plugin",
