@@ -3,22 +3,58 @@
   "cyAddonSharpVersion": "1.4.0",
   "plugins": [
     {
-      "plugin": "cyplugin",
-      "description": "c# plugin to do nothing",
-      "version": "cypl-who-b1.0",
+      "plugin": "cyChat",
+      "description": "plugin to write anonymously with others",
+      "version": "cypl-chat-b1.0",
       "apiversion": "23",
       "image": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
       "download": "https://www.google.com",
       "cySharpVersion": "1.4.0"       
     },
     {
-      "plugin": "test plugin",
-      "description": "c# plugin to test",
-      "version": "cypl-test-b1.0",
+      "plugin": "cyWho",
+      "description": "plugin to indicate who wants to write to you",
+      "version": "cypl-who-b1.0",
       "apiversion": "23",
       "image": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
       "download": "https://www.google.com",
       "cySharpVersion": "1.4.0"
- }
+     },
+     {
+      "plugin": "cyAntiAfk",
+      "description": "plugin to prevent moving from afk bots",
+      "version": "cypl-antiafk-b1.0",
+      "apiversion": "23",
+      "image": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+      "download": "https://www.google.com",
+      "cySharpVersion": "1.4.0"
+     },
+     {
+      "plugin": "cyAntiKick",
+      "description": "plugin to prevent kick from a channel",
+      "version": "cypl-antikick-b1.0",
+      "apiversion": "23",
+      "image": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+      "download": "https://www.google.com",
+      "cySharpVersion": "1.4.0"
+     },
+     {
+      "plugin": "cyPokeMove",
+      "description": "plugin to move a client if you got poked",
+      "version": "cypl-pokemove-b1.0",
+      "apiversion": "23",
+      "image": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+      "download": "https://www.google.com",
+      "cySharpVersion": "1.4.0"
+     },
+     {
+      "plugin": "cyNotifyer",
+      "description": "plugin to notify when user enter a channel",
+      "version": "cypl-notifyer-b1.0",
+      "apiversion": "23",
+      "image": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+      "download": "https://www.google.com",
+      "cySharpVersion": "1.4.0"
+     }
   ]
 }
