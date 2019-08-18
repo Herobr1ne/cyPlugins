@@ -23,6 +23,10 @@
     {
       "plugin": "cyAntiAfk",
       "version": "cypl-antiafk-b3.0"
+    },
+    {
+      "plugin": "cyApi",
+      "version": "cypl-api-b3.0"
     }
   ]
 }
