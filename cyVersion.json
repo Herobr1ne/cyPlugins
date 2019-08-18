@@ -1,0 +1,28 @@
+{
+  "plugins": [
+    {
+      "plugin": "cyWho",
+      "version": "cypl-who-b3.0"
+    },
+    {
+      "plugin": "cyChat",
+      "version": "cypl-chat-b2.0"
+    },
+    {
+      "plugin": "cyPokeMove",
+      "version": "cypl-pokemove-b2.0"
+    },
+    {
+      "plugin": "cyNotifyer",
+      "version": "cypl-notifyer-b2.0"
+    },
+    {
+      "plugin": "cyAntiKick",
+      "version": "cypl-antikick-b2.0"
+    },
+    {
+      "plugin": "cyAntiAfk",
+      "version": "cypl-antiafk-b3.0"
+    }
+  ]
+}
